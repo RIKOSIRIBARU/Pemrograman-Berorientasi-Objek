@@ -1,2 +1,11 @@
 # Pemrograman-Berorientasi-Objek
 Pemrograman Berorientasi Objek (Object-Oriented Programming atau disingkat OOP) adalah paradigma pemrograman yang menggunakan "objek" sebagai unit dasar untuk membangun program. Objek merupakan kumpulan data (atribut) dan fungsi (metode) yang berinteraksi satu sama lain. OOP membantu dalam pengorganisasian dan pemeliharaan kode, serta memungkinkan konsep seperti pewarisan (inheritance), polimorfisme (polymorphism), dan enkapsulasi (encapsulation) untuk mempermudah pengembangan aplikasi.
+Pemrograman Berorientasi Objek (OOP) didasarkan pada beberapa konsep dasar yang memungkinkan pengembangan aplikasi yang efisien dan mudah dimengerti. Beberapa konsep utama dalam OOP meliputi:
+
+1. Kelas dan Objek: Kelas adalah blueprint atau template untuk menciptakan objek. Objek adalah instance (salinan konkret) dari sebuah kelas yang memiliki atribut dan perilaku tertentu.
+2. Enkapsulasi: Enkapsulasi menggabungkan data dan metode yang beroperasi pada data ke dalam sebuah unit tunggal (objek). Ini membantu dalam mengorganisasi kode dan mengontrol akses ke data, dengan cara membatasi akses langsung ke atribut objek dari luar.
+3. Pewarisan (Inheritance): Pewarisan memungkinkan kelas untuk mewarisi atribut dan metode dari kelas lainnya. Hal ini memungkinkan untuk membangun hierarki kelas di mana kelas anak (subkelas) dapat mewarisi perilaku dari kelas induk (superkelas) dan juga menambahkan perilaku baru.
+4. Polimorfisme: Polimorfisme memungkinkan objek untuk menunjukkan perilaku yang berbeda tergantung pada konteks di mana mereka digunakan. Ini dapat dicapai melalui overriding (penggantian metode yang diwarisi) atau melalui overloading (penciptaan beberapa metode dengan nama yang sama tetapi dengan parameter yang berbeda).
+5. Abstraksi: Abstraksi memungkinkan kita untuk menyembunyikan detail implementasi tertentu dari objek dan hanya mengekspos fungsionalitas pentingnya. Ini membantu dalam memfokuskan pada fitur penting dan menyederhanakan kompleksitas.
+
+Melalui konsep-konsep ini, OOP membantu dalam mengorganisasi kode secara terstruktur, meningkatkan keterbacaan dan pemeliharaan kode, serta memfasilitasi pengembangan aplikasi yang fleksibel dan dapat diperluas.
