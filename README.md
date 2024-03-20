@@ -1,1 +1,2 @@
 # Pemrograman-Berorientasi-Objek
+Pemrograman Berorientasi Objek (Object-Oriented Programming atau disingkat OOP) adalah paradigma pemrograman yang menggunakan "objek" sebagai unit dasar untuk membangun program. Objek merupakan kumpulan data (atribut) dan fungsi (metode) yang berinteraksi satu sama lain. OOP membantu dalam pengorganisasian dan pemeliharaan kode, serta memungkinkan konsep seperti pewarisan (inheritance), polimorfisme (polymorphism), dan enkapsulasi (encapsulation) untuk mempermudah pengembangan aplikasi.
